@@ -1,0 +1,13 @@
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.deps.json
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.json
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.dev.json
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csprojAssemblyReference.cache
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfoInputs.cache
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfo.cs
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csproj.CoreCompileInputs.cache
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/home/eduardo/Documentos/PROGETOS GIT/Curso C#/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.genruntimeconfig.cache
